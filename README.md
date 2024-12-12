@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Melivu
 - 👀 I’m interested in styding
-- 🌱 I’m currently learning Python, C++, Julia, JavaScript, Java
+- 🌱 I’m currently learning Python, C++, Julia, JavaScript, Java, CSS, HTML
 - 💞️ I’m looking to collaborate on email
 - 📫 How to reach me eevee_angel@mail.ru
 
